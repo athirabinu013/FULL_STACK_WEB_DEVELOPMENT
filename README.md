@@ -15,7 +15,7 @@ This repository documents my learning journey as I explore full stack web develo
 
 ## 📂 Repository Structure
 
-
+```
 FULL_STACK_WEB_DEVELOPMENT/
 │
 ├── Javascript/
@@ -23,7 +23,7 @@ FULL_STACK_WEB_DEVELOPMENT/
 │   └── Lecture2/
 │
 └── README.md
-
+```
 
 ## 🎯 Goals
 
