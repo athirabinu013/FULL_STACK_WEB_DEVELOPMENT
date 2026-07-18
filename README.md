@@ -20,11 +20,11 @@ FULL_STACK_WEB_DEVELOPMENT/
 │
 ├── Javascript/
 │   ├── Lecture1/
-│   └── Lecture2/
+│   ├── Lecture2/
+│   └── Lecture3/
 │
 └── README.md
 ```
-
 ## 🎯 Goals
 
 - Strengthen my web development fundamentals.
