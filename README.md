@@ -21,7 +21,8 @@ FULL_STACK_WEB_DEVELOPMENT/
 ├── Javascript/
 │   ├── Lecture1/
 │   ├── Lecture2/
-│   └── Lecture3/
+│   ├── Lecture3/
+│   └── Lecture4/
 │
 └── README.md
 ```
