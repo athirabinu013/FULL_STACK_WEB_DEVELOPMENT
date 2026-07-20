@@ -22,7 +22,8 @@ FULL_STACK_WEB_DEVELOPMENT/
 │   ├── Lecture1/
 │   ├── Lecture2/
 │   ├── Lecture3/
-│   └── Lecture4/
+│   ├── Lecture4/
+│   └── Lecture5/
 │
 └── README.md
 ```
