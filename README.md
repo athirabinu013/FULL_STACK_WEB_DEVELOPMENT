@@ -17,16 +17,15 @@ This repository documents my learning journey as I explore full stack web develo
 
 ```
 FULL_STACK_WEB_DEVELOPMENT/
-│
-├── Javascript/
-│   ├── Lecture1/
-│   ├── Lecture2/
-│   ├── Lecture3/
-│   ├── Lecture4/
-│   └── Lecture5/
-│
-└── README.md
+└── Javascript/
+    ├── Lecture1/
+    ├── Lecture2/
+    ├── Lecture3/
+    ├── Lecture4/
+    ├── Lecture5/
+    └── Lecture6/
 ```
+
 ## 🎯 Goals
 
 - Strengthen my web development fundamentals.
